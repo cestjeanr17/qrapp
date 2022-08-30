@@ -1,0 +1,41 @@
+{
+  "name": "qrapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.5",
+    "bootstrap": "^5.2.0",
+    "bootstrap-icons": "^1.9.1",
+    "core-js": "^3.8.3",
+    "datatables.net-bs5": "^1.12.1",
+    "datatables.net-buttons-bs5": "^2.2.3",
+    "dom-to-image": "^2.6.0",
+    "export-from-json": "^1.6.0",
+    "firebase": "^9.9.1",
+    "html2canvas": "^1.4.1",
+    "jquery": "^3.6.1",
+    "jspdf": "^2.5.1",
+    "jszip": "^3.10.1",
+    "pdfmake": "^0.2.5",
+    "vue": "^3.2.13",
+    "vue-qr": "^4.0.9",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "autoprefixer": "^10.4.7",
+    "css-loader": "^6.7.1",
+    "postcss-loader": "^7.0.1",
+    "sass": "^1.54.0",
+    "sass-loader": "^13.0.2",
+    "style-loader": "^3.3.1"
+  }
+}
